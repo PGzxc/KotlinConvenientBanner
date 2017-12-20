@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinConvenientBanner</string>
+    <string name="loop_local">本地轮播图</string>
+    <string name="loop_net">网络轮播图</string>
+</resources>
